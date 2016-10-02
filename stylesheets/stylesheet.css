@@ -7,6 +7,8 @@
 .Multiplication {
  padding-left: 15px;
  padding-right: 85px;
+  padding-top: 30px;
+
  
 }
 
@@ -19,7 +21,8 @@
 .Division {
  padding-left: 15px;
  padding-right: 85px;
- 
+ padding-top: 30px;
+
 }
 
 
@@ -35,7 +38,6 @@
 
 .sectionB {
  display: inline-block; 
- padding-top: 30px;
   
 }
 
