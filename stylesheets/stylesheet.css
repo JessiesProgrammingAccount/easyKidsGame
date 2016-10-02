@@ -5,10 +5,23 @@
 }
 
 .Multiplication {
- padding-left: 50px;
- padding-right: 50px;
+ padding-left: 65px;
+ padding-right: 65px;
  
 }
+
+.Subtraction {
+ padding-left: 65px;
+ padding-right: 65px;
+ 
+}
+
+.Divition {
+ padding-left: 65px;
+ padding-right: 65px;
+ 
+}
+
 
 .containerAB {
  text-align:center;
